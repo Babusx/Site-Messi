@@ -1,0 +1,50 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@1,300&family=Playfair+Display+SC:wght@400;700&display=swap');
+
+body{
+    background-color: steelblue;
+    display: flex;
+    justify-content: center;
+}
+.container{
+   background-color: antiquewhite; 
+   border-radius: 20px;
+   display: flex;
+   width: 1200px;
+   
+}
+
+.container .messi{
+    padding: 10px;
+}
+
+
+.bio img{
+    width: 50px;
+}
+
+.nacionalidade{
+    display: flex;
+    align-items: center;
+
+}
+
+
+img{
+    width: 530px;
+}
+
+.titulo{
+    display: flex;
+}
+p{ 
+    font-family: 'Playfair Display SC', serif;
+}
+.clubes{
+    display: flex;
+    align-items: center;
+}
+.ouros{
+    display: flex;
+    align-items: center;
+}
